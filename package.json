@@ -1,6 +1,6 @@
 {
   "name": "hygen-typescript-react-redux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A hygen package for React and Redux using Typescript Safe Typings",
   "keywords": [
     "hygen",
@@ -10,6 +10,6 @@
     "react"
   ],
   "main": "index.js",
-  "repository": "https://github.com/jondot/hygen-CRA",
+  "repository": "https://github.com/alexwine36/hygen-typescript-react-redux",
   "license": "MIT"
 }
