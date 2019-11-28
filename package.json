@@ -1,6 +1,6 @@
 {
   "name": "hygen-typescript-react-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hygen package for React and Redux using Typescript Safe Typings",
   "keywords": [
     "hygen",
